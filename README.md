@@ -4,3 +4,6 @@
   * nn nn nn nn nn nn
   * mmmddd
   final change
+ #!/bin/bash
+ rm abc.txt
+ ls -lart
